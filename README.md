@@ -33,8 +33,6 @@ Tested with macOS (M1).
  * [MSP430 GCC Toolchain User’s Guide](https://www.ti.com/lit/ug/slau646f/slau646f.pdf?ts=1696122855710&ref_url=https%253A%252F%252Fwww.google.com%252F)
  * [MSP Flasher User's Guide](https://www.ti.com/lit/ug/slau654e/slau654e.pdf?ts=1694985823973&ref_url=https%253A%252F%252Fwww.google.com%252F).
  * [GitHub repository from drvlas](https://github.com/drvlas/msp430-gcc-CLion-toolchain/tree/master). It's contains useful script to works and configure the debugger.
- * This guide is based on and created thanks to the drvlas's Blog: 
- ** [MSP430 + CLion. Part 1: Build](https://forum.allaboutcircuits.com/ubs/msp430-clion-part-1-build.1180/).
- ** [MSP430 + CLion. Part 2: Upload and Debug](https://forum.allaboutcircuits.com/ubs/msp430-clion-part-2-upload-and-debug.1181/).
-
-
+ * This guide is based on, and created, thanks to the drvlas's Blog: 
+   * [MSP430 + CLion. Part 1: Build](https://forum.allaboutcircuits.com/ubs/msp430-clion-part-1-build.1180/).
+   * [MSP430 + CLion. Part 2: Upload and Debug](https://forum.allaboutcircuits.com/ubs/msp430-clion-part-2-upload-and-debug.1181/).
