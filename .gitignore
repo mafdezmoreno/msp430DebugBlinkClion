@@ -1,0 +1,15 @@
+.launches
+.settings
+.idea
+.ccsproject
+.cproject
+.project
+*.ld
+Debug/Log
+*.d_raw
+*.o
+*.opt
+*.hex
+*.map
+*.out
+targetConfigs
